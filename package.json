@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-de-media",
+  "version": "1.0.0",
+  "description": "Calculadora de média escolar — projeto base da avaliação de Engenharia de Software II",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "Wagner Loch",
+  "license": "ISC"
+}
