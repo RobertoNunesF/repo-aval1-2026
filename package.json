@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "test": "node --test"
+    "test": "node --test",
+    "lint:commits": "node .github/scripts/validar-commits.js"
   },
   "engines": {
     "node": ">=20"
