@@ -116,14 +116,14 @@ flowchart LR
 ### 2. Clone e configuração (cada integrante)
 
 ```bash
-git clone https://github.com/<usuario-que-fez-o-fork>/<repositorio>.git
-cd <repositorio>
+git clone https://github.com/<usuario-que-fez-o-fork>/repo-aval-2026.git
+cd repo-aval-2026
 
 git config user.name "Seu Nome Completo"
 git config user.email "e-mail-da-sua-conta@github.com"
 git config pull.rebase false
 
-git remote add upstream https://github.com/<usuario-do-professor>/<repositorio>.git
+git remote add upstream https://github.com/wagnerloch/repo-aval-2026.git
 
 npm test
 ```
@@ -173,7 +173,7 @@ o merge e criar a tag `v1.1.0`.
 ### 7. Pull Request (um integrante)
 
 1. No fork, clique em **Contribute** → **Open pull request**.
-2. Confira a direção: `<professor>/<repositorio>` **main** ← `<fork>/<repositorio>` **main**.
+2. Confira a direção: `wagnerloch/repo-aval-2026` **main** ← `<usuario-que-fez-o-fork>/repo-aval-2026` **main**.
 3. Título: **`Entrega: <Nome da equipe>`**.
 4. Preencha **todo** o modelo que aparece na descrição.
 5. Clique em **Create pull request**.
