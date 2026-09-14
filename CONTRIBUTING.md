@@ -33,7 +33,7 @@ git config user.email "seu-email@exemplo.com"
 git config pull.rebase false
 
 # Repositório base do professor
-git remote add upstream https://github.com/<usuario-do-professor>/<repositorio>.git
+git remote add upstream https://github.com/wagnerloch/repo-aval-2026.git
 ```
 
 > ⚠️ Em computadores compartilhados (laboratório), confira `git config user.name` e
