@@ -4,6 +4,7 @@
   "description": "Calculadora de média escolar — projeto base da avaliação de Engenharia de Software II",
   "type": "module",
   "scripts": {
+    "start": "node src/index.js",
     "test": "node --test"
   },
   "engines": {
