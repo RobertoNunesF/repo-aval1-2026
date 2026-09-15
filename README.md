@@ -285,7 +285,7 @@ commits estão fora do padrão; **não reescrevam** commits já enviados para te
 | **Prazo**        | Conforme divulgado pelo professor no ambiente virtual da disciplina  |
 
 - Commits enviados **após o prazo** não serão considerados.
-- Não apaguem as branches do fork até a divulgação das notas.
+- Não apaguem os repositórios do fork até a divulgação das notas.
 
 ---
 
