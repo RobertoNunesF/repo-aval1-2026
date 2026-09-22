@@ -19,6 +19,7 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 | Nome | Usuário do GitHub |
 | ---- | ----------------- |
 | Roberto Nunes Ferreira | RobertoNunesF |
+| Derek Formentin de Oliveira | derek-fo |
 
 ## Sumário
 
