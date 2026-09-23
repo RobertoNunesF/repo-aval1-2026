@@ -25,6 +25,10 @@ describe('obterSituacao', () => {
     assert.equal(obterSituacao(8.5), 'Aprovado');
   });
 
+  test('retorna "Aprovado" para média igual a 7', () => {
+    assert.equal(obterSituacao(7), 'Aprovado');
+  });
+
   test('retorna "Recuperação" para média entre 5 e 7', () => {
     assert.equal(obterSituacao(6), 'Recuperação');
   });
