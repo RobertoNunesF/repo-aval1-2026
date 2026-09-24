@@ -29,7 +29,9 @@ export function calcularMedia(notas) {
     soma = soma + notas[i];
   }
 
-  return soma / notas.length;
+  let media = parseFloat((soma / notas.length).toFixed(2));
+
+  return media;
 }
 
 /**
