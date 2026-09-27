@@ -31,7 +31,7 @@ export function calcularMedia(notas) {
 
   const soma = notas.reduce((acumulador, nota) => acumulador + nota, 0);
 
-  return soma / notas.length;
+  return parseFloat((soma / notas.length).toFixed(2));
 }
 
 /**
