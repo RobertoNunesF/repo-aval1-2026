@@ -39,7 +39,7 @@ export function calcularMedia(notas) {
  * @returns {string} "Aprovado", "Recuperação" ou "Reprovado"
  */
 export function obterSituacao(media) {
-  if (media > MEDIA_APROVACAO) {
+  if (media >= MEDIA_APROVACAO) {
     return 'Aprovado';
   }
 
