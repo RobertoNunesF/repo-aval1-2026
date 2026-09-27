@@ -21,6 +21,7 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 | hope borba | hopeborba-glitch |
 | Roberto Nunes Ferreira | RobertoNunesF |
 | Derek Formentin de Oliveira | derek-fo |
+| luiz freitas | luiz-tfreitas |
 
 ## Sumário
 
