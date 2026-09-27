@@ -29,9 +29,17 @@ export function calcularMedia(notas) {
     soma = soma + notas[i];
   }
 
-  let media = parseFloat((soma / notas.length).toFixed(2));
+  return soma / notas.length;
+}
 
-  return media;
+/**
+ * Formata a média com uma casa decimal e vírgula como separador.
+ *
+ * @param {number} media
+ * @returns {string}
+ */
+export function formatarMedia(media) {
+  return media.toFixed(1).replace('.', ',');
 }
 
 /**

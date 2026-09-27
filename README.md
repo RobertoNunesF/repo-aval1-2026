@@ -53,7 +53,7 @@ npm start -- 6 8 9
 ```
 
 ```
-Média: 7.666666666666667
+Média: 7,7
 Situação: Aprovado
 ```
 
