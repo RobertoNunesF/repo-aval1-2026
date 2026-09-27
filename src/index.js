@@ -1,11 +1,11 @@
-import { calcularMedia, obterSituacao } from './media.js';
+import { calcularMedia, formatarMedia, obterSituacao } from './media.js';
 
 const notas = process.argv.slice(2).map(Number);
 
 try {
   const media = calcularMedia(notas);
 
-  console.log(`Média: ${media}`);
+  console.log(`Média: ${formatarMedia(media)}`);
   console.log(`Situação: ${obterSituacao(media)}`);
 } catch (erro) {
   console.error(`Erro: ${erro.message}`);
