@@ -1,6 +1,6 @@
 {
   "name": "calculadora-de-media",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Calculadora de média escolar — projeto base da avaliação de Engenharia de Software II",
   "type": "module",
   "scripts": {
