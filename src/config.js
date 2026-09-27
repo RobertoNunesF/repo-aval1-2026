@@ -11,6 +11,9 @@ export const NOTA_MINIMA = 0;
 /** Maior nota que pode ser lançada. */
 export const NOTA_MAXIMA = 10;
 
+/** A partir desta média o aluno está aprovado com distinção. */
+export const APROVADO_DISTINCAO = 9;
+
 /** A partir desta média o aluno está aprovado. */
 export const MEDIA_APROVACAO = 7;
 
