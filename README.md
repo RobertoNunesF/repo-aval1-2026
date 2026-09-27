@@ -16,12 +16,12 @@ Conventional Commits, merges, resolução de conflitos, versionamento e Pull Req
 
 **Nome da equipe: Equipe Rocket**
 
-| Nome | Usuário do GitHub |
-| ---- | ----------------- |
-| hope borba | hopeborba-glitch |
-| Roberto Nunes Ferreira | RobertoNunesF |
-| Derek Formentin de Oliveira | derek-fo |
-| luiz freitas | luiz-tfreitas |
+|            Nome             | Usuário do GitHub |
+| --------------------------- | ----------------- |
+| hope borba                  | hopeborba-glitch  |
+| Roberto Nunes Ferreira      | RobertoNunesF     |
+| Derek Formentin de Oliveira | derek-fo          |
+| luiz freitas                | luiz-tfreitas     |
 
 ## Sumário
 
